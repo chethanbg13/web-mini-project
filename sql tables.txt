@@ -1,0 +1,2 @@
+create database music;
+create table user (email varchar(50), password varchar(20));
